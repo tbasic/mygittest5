@@ -1,1 +1,2 @@
 step1 prog
+step2 prog
